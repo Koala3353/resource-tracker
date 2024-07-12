@@ -93,6 +93,9 @@ Admins or game masters can modify faction resources based on role-playing events
 - **Set Food Modifier for FactionA:** `=setmodifier FactionA food +10`
 - **View Resources for FactionA:** `=viewresources FactionA`
 
+## Last updated
+### - October 22, 2022
+
 # Pictures
 ![image](https://github.com/user-attachments/assets/4e08b8fc-70a3-44d7-b6e5-de6053126d85)
 ![image](https://github.com/user-attachments/assets/05e8ceda-b980-4115-887c-bcf1bc021221)
